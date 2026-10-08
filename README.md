@@ -3,7 +3,7 @@
 **Challenge:** Amazon ML Challenge 2026\
 **Stack:** Python · Pandas · RapidFuzz · AWS EC2\
 **Evaluation:** Macro F0.5\
-**Last verified official score in the project history:** `0.455032`
+**Last verified official score in the project history:** `0.8975`
 
 > This guide explains the problem first, visualizes each concept, and
 > then connects the theory to the implementation. The diagrams use
